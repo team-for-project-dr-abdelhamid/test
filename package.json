@@ -13,10 +13,6 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.10.14",
     "next": "10.0.1",
-    
-    "engines": {
-  "node": "8.x|10.x"
-},
     "react": "17.0.1",
     "react-dom": "17.0.1"
   }
